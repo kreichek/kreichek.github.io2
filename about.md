@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is currently under construction.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+----
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I am Kevin Reichek. I recently graduated from Carnegie Mellon University''s School of Computer Science with a Bachelor of Science in Computer Science and a Bachelor of Science in Statistics.
+
+I''m broadly interested in data analytics and artificial intelligence.
+
+Right now, in my spare time I am working through Sergey Levine''s Deep Reinforment Learning course at Berkeley.
+
+I work as a software engineer at Applied Predictive Technologies in Arlington, VA.
