@@ -18,9 +18,10 @@ email: kevinreichek@gmail.com
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: kreichek
 github_username:  kreichek
 linkedin_username: KevinReichek
+facebook_username: KevinReichek
 
 # Build settings
 markdown: kramdown
